@@ -11,6 +11,8 @@ This repository contains two versions with two different approaches.
   
     Please download and run the same on your jupyter notebook to view (Completely interactive).
   
-    Alternatively one can also visit "https://www.kaggle.com/sidagar/bike-sharing-demand". (Although some plots are visible there and some are not even though kaggle supports plotly charts.)(If you know how to fix this please let me know.)
+    Alternatively one can also visit "https://www.kaggle.com/sidagar/bike-sharing-demand". 
+    (Although some plots are visible there and some are not even though kaggle supports plotly charts.)
+    (If you know how to fix this please let me know.)
   
 My Kaggle username is "sidagar" without quotes.
