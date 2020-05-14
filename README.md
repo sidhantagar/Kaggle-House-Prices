@@ -7,7 +7,7 @@ This repository contains two versions with two different approaches.
 
   2.In the second one I have implemented a Gradient Boosting Model.(Score obtained is 0.152)
   
-    PS:There are interactive and dynamic plotly charts after lines 12,16,22,25,36(not visible in the viewer on git.)
+    PS:There are interactive and dynamic plotly charts in both the notebooks.(not visible in the viewer on git.)
   
     Please download and run the same on your jupyter notebook to view (Completely interactive).
   
