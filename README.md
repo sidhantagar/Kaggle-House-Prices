@@ -1,7 +1,7 @@
 # Kaggle-House-Prices
 In this machine learning project we are required to estimate the price of the house given various attributes such as size, area, condition and a variety of other features. All these features have been described in the data_description.txt file uploaded along with the other files in this repository.
 
-This repository contains two folders with two different approaches.
+## This repository contains two folders with two different approaches.
 
   1. In the first approach I have implemented a Linear Regression Model.(Score obtained is 0.172).
   You can visit "https://www.kaggle.com/sidagar/house-prices-using-linear-regression" to view the notebook.
@@ -20,4 +20,4 @@ This repository contains two folders with two different approaches.
     
     2. Visit kaggle links provided and fork the pinned version of the notebook and then run the notebook.
 
-My Kaggle username is "sidagar" without quotes.
+**My Kaggle username is "sidagar" without quotes.**
