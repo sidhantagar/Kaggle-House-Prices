@@ -1,5 +1,5 @@
 # Kaggle-House-Prices
-In this machine learning project we are required to estimate the price of the house given various attributes such as size, area, condition and a variety of other features. All these features have been described in the data_description.txt file uploaded along with the other files in this repository.
+In this machine learning project from kaggle we are required to estimate the price of the house given various attributes such as size, area, condition and a variety of other features. All these features have been described in the data_description.txt file uploaded along with the other files in this repository.
 
 ## This repository contains two folders with two different approaches.
 
