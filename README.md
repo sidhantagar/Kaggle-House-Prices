@@ -20,7 +20,5 @@ In this machine learning project from kaggle we are required to estimate the pri
     
     2. Visit kaggle links provided and fork the pinned version of the notebook and then run the notebook.
 
-**My Kaggle username is "sidagar" without quotes.**
-
-By sidagar.
+**My Kaggle username is "[sidagar](https://www.kaggle.com/sidagar)" without quotes.**
 
